@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f853f333aaf513d5e4afd74d763c120f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\25ebfbad381a542402d9b37a849a661b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dff5832e26fed9654b80cf68ae9e3a3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9b9272d387d4f0351e6a8f2102fe0494\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f0fc0873f4ddc1c58c0ecc4004b3f90d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b20f66f423cc00c37c06003075813316\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cc0c460e7c74d29a3c4858427194f514\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6ca3e7b6768c81d2a3818c90cac5c20a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dc4405b15014770d6198d8acbaa16c34\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\eaa71b9abd7986c44efe22f6536b0c40\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1572a210892f6b925cf4bc4d2a2816a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0a8cbf6a50e1690327d8592bdb00d8ad\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\25ebfbad381a542402d9b37a849a661b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\25ebfbad381a542402d9b37a849a661b\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.abhinay.tic_tac_toe.MainActivity
+ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.abhinay.tic_tac_toe.OneOnOne
+ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:19:9-55
+	android:name
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml:19:19-43
+uses-sdk
+INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f853f333aaf513d5e4afd74d763c120f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f853f333aaf513d5e4afd74d763c120f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\25ebfbad381a542402d9b37a849a661b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\25ebfbad381a542402d9b37a849a661b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dff5832e26fed9654b80cf68ae9e3a3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dff5832e26fed9654b80cf68ae9e3a3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9b9272d387d4f0351e6a8f2102fe0494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9b9272d387d4f0351e6a8f2102fe0494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f0fc0873f4ddc1c58c0ecc4004b3f90d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f0fc0873f4ddc1c58c0ecc4004b3f90d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b20f66f423cc00c37c06003075813316\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b20f66f423cc00c37c06003075813316\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cc0c460e7c74d29a3c4858427194f514\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cc0c460e7c74d29a3c4858427194f514\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6ca3e7b6768c81d2a3818c90cac5c20a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6ca3e7b6768c81d2a3818c90cac5c20a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dc4405b15014770d6198d8acbaa16c34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dc4405b15014770d6198d8acbaa16c34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\eaa71b9abd7986c44efe22f6536b0c40\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\eaa71b9abd7986c44efe22f6536b0c40\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1572a210892f6b925cf4bc4d2a2816a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1572a210892f6b925cf4bc4d2a2816a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0a8cbf6a50e1690327d8592bdb00d8ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abhinay\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0a8cbf6a50e1690327d8592bdb00d8ad\AndroidManifest.xml:20:5-44
+INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidDevelopment\TicTacToe\app\src\main\AndroidManifest.xml
