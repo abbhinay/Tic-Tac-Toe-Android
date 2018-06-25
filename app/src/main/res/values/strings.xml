@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="titleText">Tic Tac Toe Game</string>
+    <string name="one_on_oneText">One On One</string>
+    <string name="unbeatableText">Unbeatable</string>
+    <string name="imageview1">imageView1</string>
+    <string name="imageview2">imageview2</string>
+    <string name="imageview3">imageview3</string>
+    <string name="imageview4">imageview4</string>
+    <string name="imageview5">imageview5</string>
+    <string name="imageview6">imageview6</string>
+    <string name="imageview7">imageview7</string>
+    <string name="imageview8">imageview8</string>
+    <string name="imageview9">imageview9</string>
+</resources>

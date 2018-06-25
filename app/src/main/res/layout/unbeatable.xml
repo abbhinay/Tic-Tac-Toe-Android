@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/UimageView"
+        android:layout_width="117dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="70dp"
+        android:contentDescription="@string/imageview1"
+        android:onClick="ChangeImage1"
+        android:requiresFadingEdge="horizontal|vertical"
+        app:layout_constraintBottom_toTopOf="@id/UimageView4"
+        app:layout_constraintRight_toLeftOf="@id/UimageView2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/transparent" />
+
+    <View
+        android:id="@+id/verticalView1"
+        android:layout_width="3dp"
+        android:layout_height="400dp"
+        android:layout_marginEnd="8dp"
+        android:background="@color/colorAccent"
+        app:layout_constraintEnd_toStartOf="@+id/UimageView2"
+        app:layout_constraintLeft_toRightOf="@+id/UimageView"
+        app:layout_constraintTop_toBottomOf="@id/guidelineUpper" />
+
+    <ImageView
+        android:id="@+id/UimageView2"
+        android:layout_width="117dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="70dp"
+        android:contentDescription="@string/imageview2"
+        android:onClick="ChangeImage2"
+        app:layout_constraintBottom_toTopOf="@id/UimageView5"
+        app:layout_constraintLeft_toRightOf="@id/UimageView"
+        app:layout_constraintRight_toLeftOf="@id/UimageView3"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/transparent" />
+
+    <View
+        android:id="@+id/verticalView2"
+        android:layout_width="3dp"
+        android:layout_height="400dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@color/colorAccent"
+        app:layout_constraintEnd_toStartOf="@+id/UimageView3"
+        app:layout_constraintStart_toEndOf="@+id/UimageView2"
+        app:layout_constraintTop_toTopOf="@id/guidelineUpper" />
+
+
+    <ImageView
+        android:id="@+id/UimageView3"
+        android:layout_width="117dp"
+        android:layout_height="120dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginTop="72dp"
+        android:contentDescription="@string/imageview3"
+        android:onClick="ChangeImage3"
+        app:layout_constraintBottom_toTopOf="@id/UimageView6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/UimageView2"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/transparent" />
+
+    <View
+        android:id="@+id/horizontalView1"
+        android:layout_width="wrap_content"
+        android:layout_height="4dp"
+        android:layout_marginStart="8dp"
+        android:background="@color/colorAccent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/UimageView2" />
+
+    <ImageView
+        android:id="@+id/UimageView4"
+        android:layout_width="117dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="4dp"
+        android:contentDescription="@string/imageview4"
+        android:onClick="ChangeImage4"
+        app:layout_constraintBottom_toTopOf="@id/UimageView7"
+        app:layout_constraintRight_toLeftOf="@id/UimageView5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/UimageView"
+        app:srcCompat="@drawable/transparent" />
+
+    <ImageView
+        android:id="@+id/UimageView5"
+        android:layout_width="117dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="4dp"
+        android:contentDescription="@string/imageview5"
+        android:onClick="ChangeImage5"
+        app:layout_constraintBottom_toTopOf="@id/UimageView8"
+        app:layout_constraintLeft_toRightOf="@id/verticalView1"
+        app:layout_constraintRight_toLeftOf="@id/verticalView2"
+        app:layout_constraintTop_toBottomOf="@id/UimageView2"
+        app:srcCompat="@drawable/transparent" />
+
+    <ImageView
+        android:id="@+id/UimageView6"
+        android:layout_width="117dp"
+        android:layout_height="120dp"
+        android:contentDescription="@string/imageview6"
+        android:onClick="ChangeImage6"
+        app:layout_constraintBottom_toTopOf="@id/UimageView9"
+        app:layout_constraintLeft_toRightOf="@id/verticalView2"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/UimageView3"
+        app:srcCompat="@drawable/transparent" />
+
+    <View
+        android:id="@+id/horizontalView2"
+        android:layout_width="wrap_content"
+        android:layout_height="4dp"
+        android:layout_marginStart="8dp"
+        android:background="@color/colorAccent"
+        app:layout_constraintRight_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/UimageView5" />
+
+    <ImageView
+        android:id="@+id/UimageView7"
+        android:layout_width="117dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="4dp"
+        android:contentDescription="@string/imageview7"
+        android:onClick="ChangeImage7"
+        app:layout_constraintRight_toLeftOf="@id/UimageView8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/UimageView4"
+        app:srcCompat="@drawable/transparent" />
+
+    <ImageView
+        android:id="@+id/UimageView8"
+        android:layout_width="117dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="4dp"
+        android:contentDescription="@string/imageview8"
+        android:onClick="ChangeImage8"
+        app:layout_constraintLeft_toRightOf="@id/verticalView1"
+        app:layout_constraintRight_toLeftOf="@id/verticalView2"
+        app:layout_constraintTop_toBottomOf="@id/UimageView5"
+        app:srcCompat="@drawable/transparent" />
+
+    <ImageView
+        android:id="@+id/UimageView9"
+        android:layout_width="117dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="4dp"
+        android:contentDescription="@string/imageview9"
+        android:onClick="ChangeImage9"
+        app:layout_constraintLeft_toRightOf="@id/verticalView2"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/UimageView6"
+        app:srcCompat="@drawable/transparent" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guidelineUpper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent=".10" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guidelineLower"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent=".90" />
+
+</android.support.constraint.ConstraintLayout>
