@@ -1,6 +1,5 @@
 # Tic-Tac-Toe-Android
 
-utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abbhinay/calculatorAndroidFiles&amp;utm_campaign=Badge_Grade)
 [![Preview the app](https://img.shields.io/badge/Preview-Appetize.io-orange.svg)](https://appetize.io/app/wf6ebv14y2u5juzz6rp23c0drg)
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
